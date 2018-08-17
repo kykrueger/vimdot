@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/kykrueger/KenkouY-firmware/ProductionTestTemplateApp'
+let g:netrw_dirhist_2='/home/kykrueger/KenkouY-firmware/ProductionTestTemplateApp/pca10040/s132/config'
+let g:netrw_dirhist_3='/home/kykrueger/KenkouY-firmware/ProductionTestTemplateApp/pca10040/s132'
+let g:netrw_dirhist_4='/home/kykrueger/KenkouY-firmware/ProductionTestTemplateApp/pca10040'
+let g:netrw_dirhist_5='/home/kykrueger/KenkouY-firmware/ProductionTestTemplateApp'
+let g:netrw_dirhist_6='/home/kykrueger/KenkouY-firmware/ProductionTestTemplateApp/pca10040/s132/config'
+let g:netrw_dirhist_7='/home/kykrueger/KenkouY-firmware/ProductionTestTemplateApp/pca10040/s132'
+let g:netrw_dirhist_8='/home/kykrueger/KenkouY-firmware/ProductionTestTemplateApp/pca10040'
+let g:netrw_dirhist_9='/home/kykrueger/KenkouY-firmware/ProductionTestTemplateApp'
