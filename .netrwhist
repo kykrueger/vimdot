@@ -1,9 +1,9 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/kyle/.vim/ftplugin/latex-suite'
-let g:netrw_dirhist_2='/home/kyle/.vim/ftplugin/latex-suite/macros'
-let g:netrw_dirhist_3='/home/kyle/.vim/ftplugin/latex-suite'
-let g:netrw_dirhist_4='/home/kyle/.vim/ftplugin'
-let g:netrw_dirhist_5='/home/kyle/.vim'
-let g:netrw_dirhist_6='/home/kyle'
-let g:netrw_dirhist_7='/home/kyle/.vim'
+let g:netrw_dirhist_1='/home/kyle/vital-data-science-papers'
+let g:netrw_dirhist_2='/home/kyle/vital-data-science-papers/stressguide-acute-stress-reduction'
+let g:netrw_dirhist_3='/home/kyle'
+let g:netrw_dirhist_4='/home/kyle/vital-data-science-papers'
+let g:netrw_dirhist_5='/home/kyle'
+let g:netrw_dirhist_6='/home/kyle/vital-data-science-papers'
+let g:netrw_dirhist_7='/home/kyle/vital-data-science-papers/stressguide-acute-stress-reduction'
